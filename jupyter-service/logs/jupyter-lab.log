@@ -615,3 +615,71 @@ WebSocket connection closed.
 [I 2026-10-27 15:37:46.662 ServerApp] Adapting from protocol version 5.3 (kernel da5f5d8d-7952-4731-91d1-2d4f225068af) to 5.4 (client).
 [I 2026-10-27 15:37:46.663 ServerApp] Connecting to kernel da5f5d8d-7952-4731-91d1-2d4f225068af.
 [I 2026-10-27 15:37:46.663 ServerApp] Restoring connection for da5f5d8d-7952-4731-91d1-2d4f225068af:9a4ac705-c18b-46f0-b29b-4fdf03bc2315
+[I 2026-10-27 15:38:44.676 ServerApp] Starting buffering for 7ff22f2b-9f10-49de-947e-d65651ac92d0:b97eefaa-98f6-45c8-a90d-3840d74f6041
+WebSocket connection closed.
+[I 2026-10-27 15:38:44.677 ServerApp] Starting buffering for da5f5d8d-7952-4731-91d1-2d4f225068af:9a4ac705-c18b-46f0-b29b-4fdf03bc2315
+[I 2026-10-27 15:38:44.680 ServerApp] Adapting from protocol version 5.3 (kernel 7ff22f2b-9f10-49de-947e-d65651ac92d0) to 5.4 (client).
+[I 2026-10-27 15:38:44.681 ServerApp] Connecting to kernel 7ff22f2b-9f10-49de-947e-d65651ac92d0.
+[I 2026-10-27 15:38:44.681 ServerApp] Restoring connection for 7ff22f2b-9f10-49de-947e-d65651ac92d0:b97eefaa-98f6-45c8-a90d-3840d74f6041
+[I 2026-10-27 15:38:44.696 ServerApp] Adapting from protocol version 5.3 (kernel da5f5d8d-7952-4731-91d1-2d4f225068af) to 5.4 (client).
+[I 2026-10-27 15:38:44.696 ServerApp] Connecting to kernel da5f5d8d-7952-4731-91d1-2d4f225068af.
+[I 2026-10-27 15:38:44.697 ServerApp] Restoring connection for da5f5d8d-7952-4731-91d1-2d4f225068af:9a4ac705-c18b-46f0-b29b-4fdf03bc2315
+[W 2026-10-27 15:39:39.800 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793086779716 (ac0333bd24a246b6ad70aa723e79bf47@::1) 79.73ms referer=http://localhost:8888/lab/tree/the-craft-of-selfteaching/Part.1.A.better.teachyourself.ipynb?
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 15:44:39.786 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793087079706 (ac0333bd24a246b6ad70aa723e79bf47@::1) 75.77ms referer=http://localhost:8888/lab/tree/the-craft-of-selfteaching/Part.1.A.better.teachyourself.ipynb?
+WebSocket connection closed.
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 15:49:39.800 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793087379719 (ac0333bd24a246b6ad70aa723e79bf47@::1) 76.79ms referer=http://localhost:8888/lab/tree/the-craft-of-selfteaching/Part.1.A.better.teachyourself.ipynb?
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 15:54:39.790 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793087679711 (ac0333bd24a246b6ad70aa723e79bf47@::1) 74.46ms referer=http://localhost:8888/lab/tree/the-craft-of-selfteaching/Part.1.A.better.teachyourself.ipynb?
+WebSocket connection closed.
+WebSocket connection closed.
+[I 2026-10-27 15:57:26.566 ServerApp] Starting buffering for 7ff22f2b-9f10-49de-947e-d65651ac92d0:b97eefaa-98f6-45c8-a90d-3840d74f6041
+[I 2026-10-27 15:57:26.567 ServerApp] Starting buffering for da5f5d8d-7952-4731-91d1-2d4f225068af:9a4ac705-c18b-46f0-b29b-4fdf03bc2315
+[I 2026-10-27 15:57:26.571 ServerApp] Adapting from protocol version 5.3 (kernel 7ff22f2b-9f10-49de-947e-d65651ac92d0) to 5.4 (client).
+[I 2026-10-27 15:57:26.572 ServerApp] Connecting to kernel 7ff22f2b-9f10-49de-947e-d65651ac92d0.
+[I 2026-10-27 15:57:26.572 ServerApp] Restoring connection for 7ff22f2b-9f10-49de-947e-d65651ac92d0:b97eefaa-98f6-45c8-a90d-3840d74f6041
+[I 2026-10-27 15:57:26.598 ServerApp] Adapting from protocol version 5.3 (kernel da5f5d8d-7952-4731-91d1-2d4f225068af) to 5.4 (client).
+[I 2026-10-27 15:57:26.598 ServerApp] Connecting to kernel da5f5d8d-7952-4731-91d1-2d4f225068af.
+[I 2026-10-27 15:57:26.599 ServerApp] Restoring connection for da5f5d8d-7952-4731-91d1-2d4f225068af:9a4ac705-c18b-46f0-b29b-4fdf03bc2315
+[W 2026-10-27 15:58:50.642 ServerApp] Notebook the-craft-of-selfteaching/Part.1.B.why.start.from.learning.coding.ipynb is not trusted
+[I 2026-10-27 15:58:50.761 ServerApp] Not found API Key
+[I 2026-10-27 15:58:51.080 ServerApp] Kernel started: 15cadc34-9161-4a3d-86a3-ee087d7fdacb
+[I 2026-10-27 15:58:53.135 ServerApp] Adapting from protocol version 5.3 (kernel 15cadc34-9161-4a3d-86a3-ee087d7fdacb) to 5.4 (client).
+[I 2026-10-27 15:58:53.136 ServerApp] Connecting to kernel 15cadc34-9161-4a3d-86a3-ee087d7fdacb.
+[W 2026-10-27 15:59:02.783 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793087942710 (ac0333bd24a246b6ad70aa723e79bf47@::1) 71.68ms referer=http://localhost:8888/lab/tree/the-craft-of-selfteaching/Part.1.B.why.start.from.learning.coding.ipynb?
+WebSocket connection closed.
+[I 2026-10-27 16:00:51.735 ServerApp] Saving file at /the-craft-of-selfteaching/Part.1.B.why.start.from.learning.coding.ipynb
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 16:04:39.791 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793088279714 (ac0333bd24a246b6ad70aa723e79bf47@::1) 71.52ms referer=http://localhost:8888/lab/tree/the-craft-of-selfteaching/Part.1.B.why.start.from.learning.coding.ipynb?
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 16:09:39.801 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793088579722 (ac0333bd24a246b6ad70aa723e79bf47@::1) 75.12ms referer=http://localhost:8888/lab/tree/the-craft-of-selfteaching/Part.1.B.why.start.from.learning.coding.ipynb?
+WebSocket connection closed.
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 16:14:39.789 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793088879711 (ac0333bd24a246b6ad70aa723e79bf47@::1) 72.96ms referer=http://localhost:8888/lab/tree/the-craft-of-selfteaching/Part.1.B.why.start.from.learning.coding.ipynb?
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 16:19:39.798 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793089179719 (ac0333bd24a246b6ad70aa723e79bf47@::1) 74.11ms referer=http://localhost:8888/lab/tree/the-craft-of-selfteaching/Part.1.B.why.start.from.learning.coding.ipynb?
+WebSocket connection closed.
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 16:24:39.808 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793089479714 (ac0333bd24a246b6ad70aa723e79bf47@::1) 88.29ms referer=http://localhost:8888/lab/tree/the-craft-of-selfteaching/Part.1.B.why.start.from.learning.coding.ipynb?
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 16:29:39.790 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793089779708 (ac0333bd24a246b6ad70aa723e79bf47@::1) 78.76ms referer=http://localhost:8888/lab/tree/the-craft-of-selfteaching/Part.1.B.why.start.from.learning.coding.ipynb?
+WebSocket connection closed.
+[I 2026-10-27 16:31:18.873 ServerApp] Saving file at /the-craft-of-selfteaching/Part.1.B.why.start.from.learning.coding.ipynb
+WebSocket connection closed.
+[I 2026-10-27 16:33:19.726 ServerApp] Saving file at /the-craft-of-selfteaching/Part.1.B.why.start.from.learning.coding.ipynb
+WebSocket connection closed.
+[W 2026-10-27 16:34:39.803 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793090079718 (ac0333bd24a246b6ad70aa723e79bf47@::1) 81.71ms referer=http://localhost:8888/lab/tree/the-craft-of-selfteaching/Part.1.B.why.start.from.learning.coding.ipynb?
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 16:39:01.977 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793090341906 (ac0333bd24a246b6ad70aa723e79bf47@::1) 68.81ms referer=http://localhost:8888/lab/tree/the-craft-of-selfteaching/Part.1.B.why.start.from.learning.coding.ipynb?
+WebSocket connection closed.
