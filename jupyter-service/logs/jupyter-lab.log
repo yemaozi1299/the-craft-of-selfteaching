@@ -1,0 +1,617 @@
+ 
+===== [2026/10/27 周二  9:59:58.15] start jupyter lab on port 8888 ===== 
+[W 2026-10-27 10:00:16.236 ServerApp] ServerApp.token config is deprecated in 2.0. Use IdentityProvider.token.
+[I 2026-10-27 10:00:29.570 ServerApp] ****************** ENVIRONMENT [Panels] Environment.PRODUCTION ******************
+[I 2026-10-27 10:00:29.594 ServerApp] ****************** ENVIRONMENT [Panels] Environment.PRODUCTION ******************
+[I 2026-10-27 10:00:31.541 ServerApp] --> Alembic Config: {'db_conn_url': 'sqlite:///C:\\Users\\YU\\anaconda_projects\\db\\project_filebrowser.db', 'db_path': 'C:\\Users\\YU\\anaconda_projects\\db\\project_filebrowser.db'}
+[I 2026-10-27 10:00:31.541 ServerApp] Default dir: C:\Users\YU. Running chdir...
+[I 2026-10-27 10:00:31.541 ServerApp] Checking for database file @ C:\Users\YU\anaconda_projects\db\project_filebrowser.db
+[I 2026-10-27 10:00:31.542 ServerApp] Database file already exists
+[I 2026-10-27 10:00:31.687 ServerApp] Migrations executed
+[I 2026-10-27 10:00:31.687 ServerApp] Checking project configuration: C:\Users\YU. Running chdir...
+[I 2026-10-27 10:00:31.688 ServerApp] Initializing a new watchdog thread: []
+[I 2026-10-27 10:00:31.702 ServerApp] Successfully initialized a watchdog thread: [23700]
+[I 2026-10-27 10:00:40.617 ServerApp] aext_assistant | extension was successfully linked.
+[I 2026-10-27 10:00:40.618 ServerApp] aext_core | extension was successfully linked.
+[I 2026-10-27 10:00:40.618 ServerApp] aext_panels | extension was successfully linked.
+[I 2026-10-27 10:00:40.618 ServerApp] aext_toolbox | extension was successfully linked.
+[I 2026-10-27 10:00:40.618 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2026-10-27 10:00:40.628 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2026-10-27 10:00:40.656 ServerApp] jupyterlab | extension was successfully linked.
+[I 2026-10-27 10:00:40.664 ServerApp] mamba_gator | extension was successfully linked.
+[I 2026-10-27 10:00:40.675 ServerApp] notebook | extension was successfully linked.
+[I 2026-10-27 10:00:46.044 ServerApp] notebook_shim | extension was successfully linked.
+[I 2026-10-27 10:00:46.045 ServerApp] panel.io.jupyter_server_extension | extension was successfully linked.
+[W 2026-10-27 10:00:46.188 ServerApp] All authentication is disabled.  Anyone who can connect to this server will be able to run code.
+[I 2026-10-27 10:00:46.189 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2026-10-27 10:00:46.190 ServerApp] Registered aext_assistant server extension
+[I 2026-10-27 10:00:46.190 ServerApp] aext_assistant | extension was successfully loaded.
+[I 2026-10-27 10:00:46.192 ServerApp] Registered aext_core server extension
+[I 2026-10-27 10:00:46.192 ServerApp] aext_core | extension was successfully loaded.
+[I 2026-10-27 10:00:46.193 ServerApp] Registered aext_panels server extension
+[I 2026-10-27 10:00:46.194 ServerApp] aext_panels | extension was successfully loaded.
+[I 2026-10-27 10:00:46.198 ServerApp] Registered aext_environments_server extension
+[I 2026-10-27 10:00:46.198 ServerApp] Registered aext_project_filebrowser_server extension
+[I 2026-10-27 10:00:46.198 ServerApp] Registered aext_share_notebook_server extension
+[I 2026-10-27 10:00:46.198 ServerApp] Registered aext_notebook_load_server extension
+[I 2026-10-27 10:00:46.198 ServerApp] Registered aext_toolbox extension
+[I 2026-10-27 10:00:46.198 ServerApp] aext_toolbox | extension was successfully loaded.
+[I 2026-10-27 10:00:46.202 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2026-10-27 10:00:46.202 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2026-10-27 10:00:46.228 LabApp] JupyterLab extension loaded from C:\Users\YU\anaconda3\Lib\site-packages\jupyterlab
+[I 2026-10-27 10:00:46.229 LabApp] JupyterLab application directory is C:\Users\YU\anaconda3\share\jupyter\lab
+[I 2026-10-27 10:00:46.230 LabApp] Extension Manager is 'pypi'.
+[I 2026-10-27 10:00:46.247 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2026-10-27 10:00:46.248 ServerApp.mamba_gator] Server extension enabled
+[I 2026-10-27 10:00:46.273 ServerApp] mamba_gator | extension was successfully loaded.
+[I 2026-10-27 10:00:46.295 ServerApp] notebook | extension was successfully loaded.
+[I 2026-10-27 10:00:46.296 ServerApp] panel.io.jupyter_server_extension | extension was successfully loaded.
+[I 2026-10-27 10:00:46.297 ServerApp] Serving notebooks from local directory: C:\Users\YU
+[I 2026-10-27 10:00:46.297 ServerApp] Jupyter Server 2.20.0 is running at:
+[I 2026-10-27 10:00:46.297 ServerApp] http://localhost:8888/lab
+[I 2026-10-27 10:00:46.297 ServerApp]     http://127.0.0.1:8888/lab
+[I 2026-10-27 10:00:46.297 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 2026-10-27 10:00:48.222 ServerApp] Skipped non-installed server(s): basedpyright, bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyrefly, pyright, python-language-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2026-10-27 10:01:44.264 ServerApp] 302 GET / (@::1) 0.87ms
+[W 2026-10-27 10:01:45.893 ServerApp] 403 GET /aext_core_server/account_details?1793066504921 (ac0333bd24a246b6ad70aa723e79bf47@::1) 969.70ms referer=http://localhost:8888/lab?
+[W 2026-10-27 10:01:45.989 ServerApp] 401 PUT /aext_core_server/api_key?1793066505894 (ac0333bd24a246b6ad70aa723e79bf47@::1) 84.97ms referer=http://localhost:8888/lab?
+[W 2026-10-27 10:01:46.095 ServerApp] 401 GET /aext_core_server/user/features?1793066505990 (ac0333bd24a246b6ad70aa723e79bf47@::1) 100.30ms referer=http://localhost:8888/lab?
+[W 2026-10-27 10:01:50.319 ServerApp] 403 GET /aext_core_server/account_details?1793066509900 (ac0333bd24a246b6ad70aa723e79bf47@::1) 110.82ms referer=http://localhost:8888/lab?
+[W 2026-10-27 10:01:50.498 ServerApp] 401 PUT /aext_core_server/api_key?1793066510378 (ac0333bd24a246b6ad70aa723e79bf47@::1) 115.92ms referer=http://localhost:8888/lab?
+[W 2026-10-27 10:01:50.614 ServerApp] 401 GET /aext_core_server/user/features?1793066510499 (ac0333bd24a246b6ad70aa723e79bf47@::1) 111.63ms referer=http://localhost:8888/lab?
+Exception in thread Thread-9 (_readerthread):
+Traceback (most recent call last):
+  File "C:\Users\YU\anaconda3\Lib\threading.py", line 1082, in _bootstrap_inner
+    self._context.run(self.run)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\YU\anaconda3\Lib\site-packages\sentry_sdk\integrations\threading.py", line 136, in run
+    return _run_old_run_func()
+  File "C:\Users\YU\anaconda3\Lib\site-packages\sentry_sdk\integrations\threading.py", line 131, in _run_old_run_func
+    reraise(*_capture_exception())
+    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\YU\anaconda3\Lib\site-packages\sentry_sdk\utils.py", line 1829, in reraise
+    raise value
+  File "C:\Users\YU\anaconda3\Lib\site-packages\sentry_sdk\integrations\threading.py", line 129, in _run_old_run_func
+    return old_run_func(self, *a[1:], **kw)
+  File "C:\Users\YU\anaconda3\Lib\threading.py", line 1024, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\YU\anaconda3\Lib\subprocess.py", line 1614, in _readerthread
+    buffer.append(fh.read())
+                  ~~~~~~~^^
+  File "<frozen codecs>", line 325, in decode
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xd0 in position 0: invalid continuation byte
+[E 2026-10-27 10:01:52.958 ServerApp.mamba_gator] Error for task {'type': 'FileNotFoundError', 'error': '[WinError 2] 系统找不到指定的文件。', 'message': "FileNotFoundError(2, '系统找不到指定的文件。', None, 2, None)", 'traceback': ['  File "C:\\Users\\YU\\anaconda3\\Lib\\site-packages\\mamba_gator\\handlers.py", line 96, in execute_task\n    result = await f(*args)\n             ^^^^^^^^^^^^^^\n', '  File "C:\\Users\\YU\\anaconda3\\Lib\\site-packages\\mamba_gator\\handlers.py", line 413, in update_available\n    answer = await env_manager.list_available()\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "C:\\Users\\YU\\anaconda3\\Lib\\site-packages\\mamba_gator\\envmanager.py", line 761, in list_available\n    ans = await self._execute(self.manager, "search", "--json")\n          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "C:\\Users\\YU\\anaconda3\\Lib\\site-packages\\mamba_gator\\envmanager.py", line 220, in _execute\n    process = await current_loop.run_in_executor(\n              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n        None, partial(Popen, cmdline, **subprocess_kwargs)\n        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n    )\n    ^\n', '  File "C:\\Users\\YU\\anaconda3\\Lib\\concurrent\\futures\\thread.py", line 86, in run\n    result = ctx.run(self.task)\n', '  File "C:\\Users\\YU\\anaconda3\\Lib\\concurrent\\futures\\thread.py", line 73, in run\n    return fn(*args, **kwargs)\n', '  File "C:\\Users\\YU\\anaconda3\\Lib\\site-packages\\sentry_sdk\\integrations\\threading.py", line 175, in wrapped_fn\n    return fn(*args, **kwargs)\n', '  File "C:\\Users\\YU\\anaconda3\\Lib\\site-packages\\sentry_sdk\\utils.py", line 1886, in runner\n    return sentry_patched_function(*args, **kwargs)\n', '  File "C:\\Users\\YU\\anaconda3\\Lib\\site-packages\\sentry_sdk\\integrations\\stdlib.py", line 352, in sentry_patched_popen_init\n    rv = old_popen_init(self, *a, **kw)\n', '  File "C:\\Users\\YU\\anaconda3\\Lib\\subprocess.py", line 1039, in __init__\n    self._execute_child(args, executable, preexec_fn, close_fds,\n    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n                        pass_fds, cwd, env,\n                        ^^^^^^^^^^^^^^^^^^^\n    ...<5 lines>...\n                        gid, gids, uid, umask,\n                        ^^^^^^^^^^^^^^^^^^^^^^\n                        start_new_session, process_group)\n                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "C:\\Users\\YU\\anaconda3\\Lib\\subprocess.py", line 1553, in _execute_child\n    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,\n                       ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^\n                             # no special security\n                             ^^^^^^^^^^^^^^^^^^^^^\n    ...<4 lines>...\n                             cwd,\n                             ^^^^\n                             startupinfo)\n                             ^^^^^^^^^^^^\n']}.
+[I 2026-10-27 10:01:53.080 ServerApp] Not found API Key
+[I 2026-10-27 10:01:53.221 LabApp] Build is up to date
+[I 2026-10-27 10:01:53.320 ServerApp] Not found API Key
+[I 2026-10-27 10:01:53.762 ServerApp] Not found API Key
+[W 2026-10-27 10:01:53.934 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793066513422 (ac0333bd24a246b6ad70aa723e79bf47@::1) 260.01ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 10:03:39.786 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793066619713 (ac0333bd24a246b6ad70aa723e79bf47@::1) 68.28ms referer=http://localhost:8888/lab/workspaces/auto-f?
+WebSocket connection closed.
+[W 2026-10-27 10:04:08.778 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793066648708 (ac0333bd24a246b6ad70aa723e79bf47@::1) 68.15ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 10:06:53.802 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793066813716 (ac0333bd24a246b6ad70aa723e79bf47@::1) 82.96ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+WebSocket connection closed.
+WebSocket connection closed.
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 10:09:57.792 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793066997719 (ac0333bd24a246b6ad70aa723e79bf47@::1) 69.99ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 10:12:35.798 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793067155717 (ac0333bd24a246b6ad70aa723e79bf47@::1) 78.58ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 10:15:00.801 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793067300716 (ac0333bd24a246b6ad70aa723e79bf47@::1) 83.01ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 10:17:35.784 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793067455717 (ac0333bd24a246b6ad70aa723e79bf47@::1) 63.89ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 10:19:59.785 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793067599718 (ac0333bd24a246b6ad70aa723e79bf47@::1) 64.19ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 10:22:35.786 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793067755714 (ac0333bd24a246b6ad70aa723e79bf47@::1) 70.01ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 10:24:58.794 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793067898720 (ac0333bd24a246b6ad70aa723e79bf47@::1) 64.94ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 10:27:35.771 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793068055705 (ac0333bd24a246b6ad70aa723e79bf47@::1) 63.01ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 10:29:57.789 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793068197718 (ac0333bd24a246b6ad70aa723e79bf47@::1) 69.20ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 10:32:35.788 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793068355719 (ac0333bd24a246b6ad70aa723e79bf47@::1) 66.89ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 10:35:57.821 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793068557706 (ac0333bd24a246b6ad70aa723e79bf47@::1) 111.79ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 10:37:39.889 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793068659710 (ac0333bd24a246b6ad70aa723e79bf47@::1) 173.44ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+[W 2026-10-27 10:39:39.787 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793068779712 (ac0333bd24a246b6ad70aa723e79bf47@::1) 70.31ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 10:42:39.784 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793068959712 (ac0333bd24a246b6ad70aa723e79bf47@::1) 66.67ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+[W 2026-10-27 10:44:39.789 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793069079718 (ac0333bd24a246b6ad70aa723e79bf47@::1) 68.66ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+[W 2026-10-27 10:47:39.782 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793069259708 (ac0333bd24a246b6ad70aa723e79bf47@::1) 71.05ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+[I 2026-10-27 11:29:18.959 ServerApp] 302 GET / (@::1) 6.45ms
+[W 2026-10-27 11:29:19.426 ServerApp] 403 GET /aext_core_server/account_details?1793071759320 (ac0333bd24a246b6ad70aa723e79bf47@::1) 102.01ms referer=http://localhost:8888/lab?
+[W 2026-10-27 11:29:19.717 ServerApp] 401 PUT /aext_core_server/api_key?1793071759602 (ac0333bd24a246b6ad70aa723e79bf47@::1) 111.91ms referer=http://localhost:8888/lab?
+[W 2026-10-27 11:29:19.830 ServerApp] 401 GET /aext_core_server/user/features?1793071759718 (ac0333bd24a246b6ad70aa723e79bf47@::1) 101.28ms referer=http://localhost:8888/lab?
+[W 2026-10-27 11:29:24.325 ServerApp] 403 GET /aext_core_server/account_details?1793071764056 (ac0333bd24a246b6ad70aa723e79bf47@::1) 112.95ms referer=http://localhost:8888/lab?
+[W 2026-10-27 11:29:24.736 ServerApp] 401 PUT /aext_core_server/api_key?1793071764376 (ac0333bd24a246b6ad70aa723e79bf47@::1) 108.77ms referer=http://localhost:8888/lab?
+[W 2026-10-27 11:29:24.858 ServerApp] 401 GET /aext_core_server/user/features?1793071764738 (ac0333bd24a246b6ad70aa723e79bf47@::1) 118.03ms referer=http://localhost:8888/lab?
+[I 2026-10-27 11:29:27.414 ServerApp] Not found API Key
+[I 2026-10-27 11:29:27.729 ServerApp] Not found API Key
+[I 2026-10-27 11:29:28.224 LabApp] Build is up to date
+[I 2026-10-27 11:29:28.338 ServerApp] Not found API Key
+[W 2026-10-27 11:29:28.577 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793071767869 (ac0333bd24a246b6ad70aa723e79bf47@::1) 106.37ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 11:34:28.785 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793072068717 (ac0333bd24a246b6ad70aa723e79bf47@::1) 65.97ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 11:39:28.783 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793072368714 (ac0333bd24a246b6ad70aa723e79bf47@::1) 67.20ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 11:44:28.783 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793072668710 (ac0333bd24a246b6ad70aa723e79bf47@::1) 70.48ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 11:49:28.785 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793072968713 (ac0333bd24a246b6ad70aa723e79bf47@::1) 68.80ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 11:54:28.785 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793073268716 (ac0333bd24a246b6ad70aa723e79bf47@::1) 66.70ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 11:59:28.786 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793073568713 (ac0333bd24a246b6ad70aa723e79bf47@::1) 70.35ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 12:04:39.780 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793073879707 (ac0333bd24a246b6ad70aa723e79bf47@::1) 69.02ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 12:09:39.795 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793074179722 (ac0333bd24a246b6ad70aa723e79bf47@::1) 69.09ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 12:14:39.789 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793074479715 (ac0333bd24a246b6ad70aa723e79bf47@::1) 70.20ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 12:19:39.785 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793074779710 (ac0333bd24a246b6ad70aa723e79bf47@::1) 69.84ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 12:24:39.786 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793075079711 (ac0333bd24a246b6ad70aa723e79bf47@::1) 71.48ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 12:29:39.783 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793075379713 (ac0333bd24a246b6ad70aa723e79bf47@::1) 66.34ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 12:34:39.784 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793075679713 (ac0333bd24a246b6ad70aa723e79bf47@::1) 67.37ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 12:39:39.790 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793075979716 (ac0333bd24a246b6ad70aa723e79bf47@::1) 71.34ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 12:44:39.781 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793076279711 (ac0333bd24a246b6ad70aa723e79bf47@::1) 67.58ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 12:49:39.793 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793076579720 (ac0333bd24a246b6ad70aa723e79bf47@::1) 68.72ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 12:54:39.804 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793076879713 (ac0333bd24a246b6ad70aa723e79bf47@::1) 85.26ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 12:59:39.788 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793077179715 (ac0333bd24a246b6ad70aa723e79bf47@::1) 69.96ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 13:04:39.796 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793077479710 (ac0333bd24a246b6ad70aa723e79bf47@::1) 82.53ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 13:09:39.785 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793077779711 (ac0333bd24a246b6ad70aa723e79bf47@::1) 70.68ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 13:14:39.795 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793078079721 (ac0333bd24a246b6ad70aa723e79bf47@::1) 69.45ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 13:19:39.780 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793078379706 (ac0333bd24a246b6ad70aa723e79bf47@::1) 69.61ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 13:24:39.785 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793078679710 (ac0333bd24a246b6ad70aa723e79bf47@::1) 71.30ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 13:29:39.791 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793078979715 (ac0333bd24a246b6ad70aa723e79bf47@::1) 71.37ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 13:34:39.787 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793079279708 (ac0333bd24a246b6ad70aa723e79bf47@::1) 74.64ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 13:39:39.785 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793079579712 (ac0333bd24a246b6ad70aa723e79bf47@::1) 69.40ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 13:44:39.794 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793079879717 (ac0333bd24a246b6ad70aa723e79bf47@::1) 73.64ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 13:49:39.797 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793080179708 (ac0333bd24a246b6ad70aa723e79bf47@::1) 84.99ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 13:54:39.811 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793080479713 (ac0333bd24a246b6ad70aa723e79bf47@::1) 88.39ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 13:59:39.817 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793080779723 (ac0333bd24a246b6ad70aa723e79bf47@::1) 87.53ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 14:04:39.802 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793081079713 (ac0333bd24a246b6ad70aa723e79bf47@::1) 83.32ms referer=http://localhost:8888/lab?
+WebSocket connection closed.
+WebSocket connection closed.
+[I 2026-10-27 14:09:07.754 ServerApp] Creating new notebook in 
+[I 2026-10-27 14:09:07.858 ServerApp] Writing notebook-signing key to C:\Users\YU\AppData\Roaming\jupyter\notebook_secret
+[I 2026-10-27 14:09:09.641 ServerApp] Kernel started: 63ac7d8d-2c98-45aa-a83a-ed303efd7ed9
+[I 2026-10-27 14:09:14.187 ServerApp] Adapting from protocol version 5.3 (kernel 63ac7d8d-2c98-45aa-a83a-ed303efd7ed9) to 5.4 (client).
+[I 2026-10-27 14:09:14.187 ServerApp] Adapting from protocol version 5.3 (kernel 63ac7d8d-2c98-45aa-a83a-ed303efd7ed9) to 5.4 (client).
+[I 2026-10-27 14:09:14.189 ServerApp] Connecting to kernel 63ac7d8d-2c98-45aa-a83a-ed303efd7ed9.
+[I 2026-10-27 14:09:14.205 ServerApp] Connecting to kernel 63ac7d8d-2c98-45aa-a83a-ed303efd7ed9.
+[W 2026-10-27 14:09:14.221 ServerApp] The websocket_ping_timeout (90000) cannot be longer than the websocket_ping_interval (30000).
+    Setting websocket_ping_timeout=30000
+[I 2026-10-27 14:09:14.225 ServerApp] Adapting from protocol version 5.3 (kernel 63ac7d8d-2c98-45aa-a83a-ed303efd7ed9) to 5.4 (client).
+[I 2026-10-27 14:09:14.226 ServerApp] Connecting to kernel 63ac7d8d-2c98-45aa-a83a-ed303efd7ed9.
+[W 2026-10-27 14:09:14.313 ServerApp] Got events for closed stream <zmq.eventloop.zmqstream.ZMQStream object at 0x0000022CD4979450>
+[W 2026-10-27 14:09:14.324 ServerApp] Got events for closed stream <zmq.eventloop.zmqstream.ZMQStream object at 0x0000022CD49C9C50>
+[I 2026-10-27 14:09:20.203 ServerApp] Saving file at /Untitled.ipynb
+[W 2026-10-27 14:09:20.479 ServerApp] C:\Users\YU\Untitled.ipynb doesn't exist
+[I 2026-10-27 14:09:25.974 ServerApp] Saving file at /test1.ipynb
+[W 2026-10-27 14:09:27.994 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793081367867 (ac0333bd24a246b6ad70aa723e79bf47@::1) 123.87ms referer=http://localhost:8888/lab/tree/test1.ipynb
+[W 2026-10-27 14:10:06.738 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793081406589 (ac0333bd24a246b6ad70aa723e79bf47@::1) 146.96ms referer=http://localhost:8888/lab/tree/test1.ipynb
+[I 2026-10-27 14:10:34.405 ServerApp] Saving file at /test1.ipynb
+[I 2026-10-27 14:10:34.512 ServerApp] Saving file at /test1.ipynb
+WebSocket connection closed.
+[W 2026-10-27 14:12:15.094 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793081535020 (ac0333bd24a246b6ad70aa723e79bf47@::1) 72.62ms referer=http://localhost:8888/lab/tree/test1.ipynb
+[I 2026-10-27 14:12:34.734 ServerApp] Saving file at /test1.ipynb
+WebSocket connection closed.
+[W 2026-10-27 14:14:39.789 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793081679714 (ac0333bd24a246b6ad70aa723e79bf47@::1) 72.88ms referer=http://localhost:8888/lab/tree/test1.ipynb
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 14:17:09.631 ServerApp] 404 GET /api/contents/Untitled.ipynb?content=0&hash=0&1793081829619 (ac0333bd24a246b6ad70aa723e79bf47@::1) 2.28ms referer=http://localhost:8888/lab/tree/test1.ipynb?
+[W 2026-10-27 14:17:09.632 ServerApp] 404 GET /api/contents/Untitled.ipynb?content=0&hash=0&1793081829619 (::1): No such file or directory: Untitled.ipynb
+[I 2026-10-27 14:17:46.345 ServerApp] Creating new directory in 
+WebSocket connection closed.
+[W 2026-10-27 14:19:28.777 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793081968709 (ac0333bd24a246b6ad70aa723e79bf47@::1) 65.55ms referer=http://localhost:8888/lab/tree/test1.ipynb?
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 14:24:39.792 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793082279720 (ac0333bd24a246b6ad70aa723e79bf47@::1) 68.35ms referer=http://localhost:8888/lab/tree/test1.ipynb?
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 14:27:44.235 ServerApp] 404 GET /api/contents/C%3A%5Cooooo%5Cxiaolai%5C%E8%87%AA%E5%AD%A6%E6%98%AF%E4%B8%80%E9%97%A8%E6%89%8B%E8%89%BA%5Cthe-craft-of-selfteaching%5Cmarkdown?content=0&hash=0&1793082464231 (::1): C:\ooooo\xiaolai\自学是一门手艺\the-craft-of-selfteaching\markdown is not a relative API path
+[W 2026-10-27 14:27:44.236 ServerApp] wrote error: 'C:\\ooooo\\xiaolai\\自学是一门手艺\\the-craft-of-selfteaching\\markdown is not a relative API path'
+[W 2026-10-27 14:27:44.237 ServerApp] 404 GET /api/contents/C%3A%5Cooooo%5Cxiaolai%5C%E8%87%AA%E5%AD%A6%E6%98%AF%E4%B8%80%E9%97%A8%E6%89%8B%E8%89%BA%5Cthe-craft-of-selfteaching%5Cmarkdown?content=0&hash=0&1793082464231 (ac0333bd24a246b6ad70aa723e79bf47@::1) 3.38ms referer=http://localhost:8888/lab/tree/test1.ipynb?
+[IPKernelApp] ERROR | Failed to open SQLite history C:\Users\YU\.ipython\profile_default\history.sqlite (datatype mismatch).
+[IPKernelApp] ERROR | Exception in message handler:
+Traceback (most recent call last):
+  File "C:\Users\YU\anaconda3\Lib\site-packages\IPython\core\history.py", line 124, in catch_corrupt_db
+    return f(self, *a, **kw)
+  File "C:\Users\YU\anaconda3\Lib\site-packages\IPython\core\history.py", line 884, in get_tail
+    self._run_sql(
+    ~~~~~~~~~~~~~^
+        "WHERE session == ? ORDER BY line DESC LIMIT ?  ",
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        output=output,
+        ^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\YU\anaconda3\Lib\site-packages\IPython\core\history.py", line 396, in _run_sql
+    cur = self.db.execute(this_querry, params)
+sqlite3.IntegrityError: datatype mismatch
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\YU\anaconda3\Lib\site-packages\ipykernel\kernelbase.py", line 400, in dispatch_shell
+    await result
+  File "C:\Users\YU\anaconda3\Lib\site-packages\ipykernel\kernelbase.py", line 867, in history_request
+    reply_content = self.do_history(**content)
+  File "C:\Users\YU\anaconda3\Lib\site-packages\ipykernel\ipkernel.py", line 625, in do_history
+    hist = self.shell.history_manager.get_tail(
+        n, raw=raw, output=output, include_latest=True
+    )
+  File "C:\Users\YU\anaconda3\Lib\site-packages\decorator\__init__.py", line 247, in fun
+    return caller(func, *(extras + args), **kw)
+  File "C:\Users\YU\anaconda3\Lib\site-packages\IPython\core\history.py", line 157, in catch_corrupt_db
+    self.hist_file.rename(newpath)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\YU\anaconda3\Lib\pathlib\__init__.py", line 1076, in rename
+    os.rename(self, target)
+    ~~~~~~~~~^^^^^^^^^^^^^^
+PermissionError: [WinError 32] 另一个程序正在使用此文件，进程无法访问。: 'C:\\Users\\YU\\.ipython\\profile_default\\history.sqlite' -> 'C:\\Users\\YU\\.ipython\\profile_default\\history-corrupt-2026-10-27T06.28.09.337126+00.00.sqlite'
+[I 2026-10-27 14:28:09.532 ServerApp] Not found API Key
+[I 2026-10-27 14:28:11.480 ServerApp] Not found API Key
+[I 2026-10-27 14:28:36.896 ServerApp] Saving file at /test1.ipynb
+[I 2026-10-27 14:28:53.521 ServerApp] Saving file at /test1.ipynb
+WebSocket connection closed.
+[I 2026-10-27 14:29:11.705 ServerApp] Saving file at /test1.ipynb
+[W 2026-10-27 14:29:28.778 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793082568707 (ac0333bd24a246b6ad70aa723e79bf47@::1) 69.14ms referer=http://localhost:8888/lab/tree/test1.ipynb?
+WebSocket connection closed.
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+ 
+==== [14:38:55.74] start jupyter lab on port 8888, root "C:\ooooo\xiaolai\自学是一门手艺" ==== 
+[W 2026-10-27 14:38:59.768 ServerApp] ServerApp.token config is deprecated in 2.0. Use IdentityProvider.token.
+[I 2026-10-27 14:39:04.140 ServerApp] ****************** ENVIRONMENT [Panels] Environment.PRODUCTION ******************
+[I 2026-10-27 14:39:04.156 ServerApp] ****************** ENVIRONMENT [Panels] Environment.PRODUCTION ******************
+[W 2026-10-27 14:39:04.802 ServerApp] Database not initialized by migration_upgrade(). Running it again
+Database not initialized by migration_upgrade(). Running it again
+[I 2026-10-27 14:39:04.803 ServerApp] --> Alembic Config: {'db_conn_url': 'sqlite:///C:\\ooooo\\xiaolai\\自学是一门手艺\\anaconda_projects\\db\\project_filebrowser.db', 'db_path': 'C:\\ooooo\\xiaolai\\自学是一门手艺\\anaconda_projects\\db\\project_filebrowser.db'}
+[I 2026-10-27 14:39:04.803 ServerApp] Default dir: C:\ooooo\xiaolai\自学是一门手艺. Running chdir...
+[I 2026-10-27 14:39:04.803 ServerApp] Checking for database file @ C:\ooooo\xiaolai\自学是一门手艺\anaconda_projects\db\project_filebrowser.db
+[I 2026-10-27 14:39:04.805 ServerApp] Creating database file...
+[I 2026-10-27 14:39:04.905 ServerApp] Migrations executed
+[I 2026-10-27 14:39:04.976 ServerApp] --> Alembic Config: {'db_conn_url': 'sqlite:///C:\\ooooo\\xiaolai\\自学是一门手艺\\anaconda_projects\\db\\project_filebrowser.db', 'db_path': 'C:\\ooooo\\xiaolai\\自学是一门手艺\\anaconda_projects\\db\\project_filebrowser.db'}
+[I 2026-10-27 14:39:04.976 ServerApp] Default dir: C:\ooooo\xiaolai\自学是一门手艺. Running chdir...
+[I 2026-10-27 14:39:04.976 ServerApp] Checking for database file @ C:\ooooo\xiaolai\自学是一门手艺\anaconda_projects\db\project_filebrowser.db
+[I 2026-10-27 14:39:04.977 ServerApp] Database file already exists
+[I 2026-10-27 14:39:04.990 ServerApp] Migrations executed
+[I 2026-10-27 14:39:04.990 ServerApp] Checking project configuration: C:\ooooo\xiaolai\自学是一门手艺. Running chdir...
+[I 2026-10-27 14:39:04.991 ServerApp] Initializing a new watchdog thread: []
+[I 2026-10-27 14:39:05.037 ServerApp] Successfully initialized a watchdog thread: [18332]
+[I 2026-10-27 14:39:08.106 ServerApp] aext_assistant | extension was successfully linked.
+[I 2026-10-27 14:39:08.107 ServerApp] aext_core | extension was successfully linked.
+[I 2026-10-27 14:39:08.108 ServerApp] aext_panels | extension was successfully linked.
+[I 2026-10-27 14:39:08.108 ServerApp] aext_toolbox | extension was successfully linked.
+[I 2026-10-27 14:39:08.108 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2026-10-27 14:39:08.156 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2026-10-27 14:39:08.199 ServerApp] jupyterlab | extension was successfully linked.
+[I 2026-10-27 14:39:08.229 ServerApp] mamba_gator | extension was successfully linked.
+[I 2026-10-27 14:39:08.263 ServerApp] notebook | extension was successfully linked.
+[I 2026-10-27 14:39:09.824 ServerApp] notebook_shim | extension was successfully linked.
+[I 2026-10-27 14:39:09.825 ServerApp] panel.io.jupyter_server_extension | extension was successfully linked.
+[W 2026-10-27 14:39:09.884 ServerApp] All authentication is disabled.  Anyone who can connect to this server will be able to run code.
+[I 2026-10-27 14:39:09.885 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2026-10-27 14:39:09.886 ServerApp] Registered aext_assistant server extension
+[I 2026-10-27 14:39:09.886 ServerApp] aext_assistant | extension was successfully loaded.
+[I 2026-10-27 14:39:09.888 ServerApp] Registered aext_core server extension
+[I 2026-10-27 14:39:09.888 ServerApp] aext_core | extension was successfully loaded.
+[I 2026-10-27 14:39:09.890 ServerApp] Registered aext_panels server extension
+[I 2026-10-27 14:39:09.890 ServerApp] aext_panels | extension was successfully loaded.
+[I 2026-10-27 14:39:09.895 ServerApp] Registered aext_environments_server extension
+[I 2026-10-27 14:39:09.895 ServerApp] Registered aext_project_filebrowser_server extension
+[I 2026-10-27 14:39:09.895 ServerApp] Registered aext_share_notebook_server extension
+[I 2026-10-27 14:39:09.895 ServerApp] Registered aext_notebook_load_server extension
+[I 2026-10-27 14:39:09.895 ServerApp] Registered aext_toolbox extension
+[I 2026-10-27 14:39:09.895 ServerApp] aext_toolbox | extension was successfully loaded.
+[I 2026-10-27 14:39:09.899 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2026-10-27 14:39:09.900 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2026-10-27 14:39:09.926 LabApp] JupyterLab extension loaded from C:\Users\YU\anaconda3\Lib\site-packages\jupyterlab
+[I 2026-10-27 14:39:09.926 LabApp] JupyterLab application directory is C:\Users\YU\anaconda3\share\jupyter\lab
+[I 2026-10-27 14:39:09.927 LabApp] Extension Manager is 'pypi'.
+[I 2026-10-27 14:39:09.968 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2026-10-27 14:39:09.969 ServerApp.mamba_gator] Server extension enabled
+[I 2026-10-27 14:39:09.992 ServerApp] mamba_gator | extension was successfully loaded.
+[I 2026-10-27 14:39:10.018 ServerApp] notebook | extension was successfully loaded.
+[I 2026-10-27 14:39:10.019 ServerApp] panel.io.jupyter_server_extension | extension was successfully loaded.
+[I 2026-10-27 14:39:10.021 ServerApp] Serving notebooks from local directory: C:\ooooo\xiaolai\自学是一门手艺
+[I 2026-10-27 14:39:10.021 ServerApp] Jupyter Server 2.20.0 is running at:
+[I 2026-10-27 14:39:10.021 ServerApp] http://localhost:8888/lab
+[I 2026-10-27 14:39:10.021 ServerApp]     http://127.0.0.1:8888/lab
+[I 2026-10-27 14:39:10.021 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 2026-10-27 14:39:12.091 ServerApp] Skipped non-installed server(s): basedpyright, bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyrefly, pyright, python-language-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2026-10-27 14:43:49.913 ServerApp] 302 GET / (@::1) 1.17ms
+[W 2026-10-27 14:43:51.931 ServerApp] 403 GET /aext_core_server/account_details?1793083430697 (ac0333bd24a246b6ad70aa723e79bf47@::1) 1230.87ms referer=http://localhost:8888/lab?
+[W 2026-10-27 14:43:52.121 ServerApp] 401 PUT /aext_core_server/api_key?1793083431933 (ac0333bd24a246b6ad70aa723e79bf47@::1) 167.44ms referer=http://localhost:8888/lab?
+[W 2026-10-27 14:43:52.288 ServerApp] 401 GET /aext_core_server/user/features?1793083432123 (ac0333bd24a246b6ad70aa723e79bf47@::1) 157.07ms referer=http://localhost:8888/lab?
+[W 2026-10-27 14:43:57.899 ServerApp] 403 GET /aext_core_server/account_details?1793083437151 (ac0333bd24a246b6ad70aa723e79bf47@::1) 128.17ms referer=http://localhost:8888/lab?
+[W 2026-10-27 14:43:58.040 ServerApp] 401 PUT /aext_core_server/api_key?1793083437901 (ac0333bd24a246b6ad70aa723e79bf47@::1) 127.92ms referer=http://localhost:8888/lab?
+[W 2026-10-27 14:43:58.177 ServerApp] 401 GET /aext_core_server/user/features?1793083438041 (ac0333bd24a246b6ad70aa723e79bf47@::1) 133.91ms referer=http://localhost:8888/lab?
+Exception in thread Thread-8 (_readerthread):
+Traceback (most recent call last):
+  File "C:\Users\YU\anaconda3\Lib\threading.py", line 1082, in _bootstrap_inner
+    self._context.run(self.run)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\YU\anaconda3\Lib\site-packages\sentry_sdk\integrations\threading.py", line 136, in run
+    return _run_old_run_func()
+  File "C:\Users\YU\anaconda3\Lib\site-packages\sentry_sdk\integrations\threading.py", line 131, in _run_old_run_func
+    reraise(*_capture_exception())
+    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\YU\anaconda3\Lib\site-packages\sentry_sdk\utils.py", line 1829, in reraise
+    raise value
+  File "C:\Users\YU\anaconda3\Lib\site-packages\sentry_sdk\integrations\threading.py", line 129, in _run_old_run_func
+    return old_run_func(self, *a[1:], **kw)
+  File "C:\Users\YU\anaconda3\Lib\threading.py", line 1024, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\YU\anaconda3\Lib\subprocess.py", line 1614, in _readerthread
+    buffer.append(fh.read())
+                  ~~~~~~~^^
+  File "<frozen codecs>", line 325, in decode
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xd0 in position 0: invalid continuation byte
+[I 2026-10-27 14:44:00.883 ServerApp] Not found API Key
+[E 2026-10-27 14:44:01.170 ServerApp.mamba_gator] Error for task {'type': 'FileNotFoundError', 'error': '[WinError 2] 系统找不到指定的文件。', 'message': "FileNotFoundError(2, '系统找不到指定的文件。', None, 2, None)", 'traceback': ['  File "C:\\Users\\YU\\anaconda3\\Lib\\site-packages\\mamba_gator\\handlers.py", line 96, in execute_task\n    result = await f(*args)\n             ^^^^^^^^^^^^^^\n', '  File "C:\\Users\\YU\\anaconda3\\Lib\\site-packages\\mamba_gator\\handlers.py", line 413, in update_available\n    answer = await env_manager.list_available()\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "C:\\Users\\YU\\anaconda3\\Lib\\site-packages\\mamba_gator\\envmanager.py", line 761, in list_available\n    ans = await self._execute(self.manager, "search", "--json")\n          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "C:\\Users\\YU\\anaconda3\\Lib\\site-packages\\mamba_gator\\envmanager.py", line 220, in _execute\n    process = await current_loop.run_in_executor(\n              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n        None, partial(Popen, cmdline, **subprocess_kwargs)\n        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n    )\n    ^\n', '  File "C:\\Users\\YU\\anaconda3\\Lib\\concurrent\\futures\\thread.py", line 86, in run\n    result = ctx.run(self.task)\n', '  File "C:\\Users\\YU\\anaconda3\\Lib\\concurrent\\futures\\thread.py", line 73, in run\n    return fn(*args, **kwargs)\n', '  File "C:\\Users\\YU\\anaconda3\\Lib\\site-packages\\sentry_sdk\\integrations\\threading.py", line 175, in wrapped_fn\n    return fn(*args, **kwargs)\n', '  File "C:\\Users\\YU\\anaconda3\\Lib\\site-packages\\sentry_sdk\\utils.py", line 1886, in runner\n    return sentry_patched_function(*args, **kwargs)\n', '  File "C:\\Users\\YU\\anaconda3\\Lib\\site-packages\\sentry_sdk\\integrations\\stdlib.py", line 352, in sentry_patched_popen_init\n    rv = old_popen_init(self, *a, **kw)\n', '  File "C:\\Users\\YU\\anaconda3\\Lib\\subprocess.py", line 1039, in __init__\n    self._execute_child(args, executable, preexec_fn, close_fds,\n    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n                        pass_fds, cwd, env,\n                        ^^^^^^^^^^^^^^^^^^^\n    ...<5 lines>...\n                        gid, gids, uid, umask,\n                        ^^^^^^^^^^^^^^^^^^^^^^\n                        start_new_session, process_group)\n                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "C:\\Users\\YU\\anaconda3\\Lib\\subprocess.py", line 1553, in _execute_child\n    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,\n                       ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^\n                             # no special security\n                             ^^^^^^^^^^^^^^^^^^^^^\n    ...<4 lines>...\n                             cwd,\n                             ^^^^\n                             startupinfo)\n                             ^^^^^^^^^^^^\n']}.
+[I 2026-10-27 14:44:01.241 LabApp] Build is up to date
+[I 2026-10-27 14:44:01.791 ServerApp] Not found API Key
+[I 2026-10-27 14:44:02.046 ServerApp] Not found API Key
+[W 2026-10-27 14:44:02.185 ServerApp] 404 GET /api/contents/test1.ipynb?content=0&hash=0&1793083441913 (ac0333bd24a246b6ad70aa723e79bf47@::1) 9.13ms referer=http://localhost:8888/lab?
+[W 2026-10-27 14:44:02.185 ServerApp] 404 GET /api/contents/test1.ipynb?content=0&hash=0&1793083441913 (::1): No such file or directory: test1.ipynb
+[W 2026-10-27 14:44:02.294 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793083441908 (ac0333bd24a246b6ad70aa723e79bf47@::1) 117.10ms referer=http://localhost:8888/lab?
+[W 2026-10-27 14:44:02.348 ServerApp] 404 GET /api/contents/test1.ipynb?content=0&hash=0&1793083441913 (ac0333bd24a246b6ad70aa723e79bf47@::1) 166.48ms referer=http://localhost:8888/lab?
+[W 2026-10-27 14:44:02.348 ServerApp] 404 GET /api/contents/test1.ipynb?content=0&hash=0&1793083441913 (::1): No such file or directory: test1.ipynb
+[I 2026-10-27 14:44:05.402 ServerApp] Creating new notebook in 
+[I 2026-10-27 14:44:06.108 ServerApp] Kernel started: 3e7c9323-3aab-45a3-a80b-ea4d3bb9e8ad
+[I 2026-10-27 14:44:09.262 ServerApp] Adapting from protocol version 5.3 (kernel 3e7c9323-3aab-45a3-a80b-ea4d3bb9e8ad) to 5.4 (client).
+[I 2026-10-27 14:44:09.262 ServerApp] Adapting from protocol version 5.3 (kernel 3e7c9323-3aab-45a3-a80b-ea4d3bb9e8ad) to 5.4 (client).
+[I 2026-10-27 14:44:09.265 ServerApp] Connecting to kernel 3e7c9323-3aab-45a3-a80b-ea4d3bb9e8ad.
+[I 2026-10-27 14:44:09.285 ServerApp] Connecting to kernel 3e7c9323-3aab-45a3-a80b-ea4d3bb9e8ad.
+[W 2026-10-27 14:44:09.306 ServerApp] The websocket_ping_timeout (90000) cannot be longer than the websocket_ping_interval (30000).
+    Setting websocket_ping_timeout=30000
+[I 2026-10-27 14:44:09.311 ServerApp] Adapting from protocol version 5.3 (kernel 3e7c9323-3aab-45a3-a80b-ea4d3bb9e8ad) to 5.4 (client).
+[I 2026-10-27 14:44:09.313 ServerApp] Connecting to kernel 3e7c9323-3aab-45a3-a80b-ea4d3bb9e8ad.
+[W 2026-10-27 14:44:09.384 ServerApp] Got events for closed stream <zmq.eventloop.zmqstream.ZMQStream object at 0x0000019BF1599D10>
+[I 2026-10-27 14:44:17.544 ServerApp] Saving file at /Untitled.ipynb
+[W 2026-10-27 14:44:17.606 ServerApp] C:\ooooo\xiaolai\自学是一门手艺\Untitled.ipynb doesn't exist
+[I 2026-10-27 14:44:30.583 ServerApp] Not found API Key
+WebSocket connection closed.
+[I 2026-10-27 14:47:51.623 ServerApp] Saving file at /test2.ipynb
+WebSocket connection closed.
+[I 2026-10-27 14:48:21.960 ServerApp] Starting buffering for 3e7c9323-3aab-45a3-a80b-ea4d3bb9e8ad:b8d2ec4a-a007-434d-aa69-305c8cbf296a
+[I 2026-10-27 14:48:22.110 ServerApp] Not found API Key
+[I 2026-10-27 14:48:31.287 ServerApp] Kernel started: 7ff22f2b-9f10-49de-947e-d65651ac92d0
+[I 2026-10-27 14:48:33.316 ServerApp] Adapting from protocol version 5.3 (kernel 7ff22f2b-9f10-49de-947e-d65651ac92d0) to 5.4 (client).
+[I 2026-10-27 14:48:33.317 ServerApp] Connecting to kernel 7ff22f2b-9f10-49de-947e-d65651ac92d0.
+[W 2026-10-27 14:49:01.981 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793083741909 (ac0333bd24a246b6ad70aa723e79bf47@::1) 70.28ms referer=http://localhost:8888/lab/tree/the-craft-of-selfteaching/markdown/test2.ipynb?
+[I 2026-10-27 14:49:18.387 ServerApp] Starting buffering for 7ff22f2b-9f10-49de-947e-d65651ac92d0:2ddba5b6-821a-4dd5-bc3f-a72c3160733b
+[I 2026-10-27 14:49:18.548 ServerApp] Not found API Key
+[I 2026-10-27 14:49:23.501 ServerApp] Adapting from protocol version 5.3 (kernel 7ff22f2b-9f10-49de-947e-d65651ac92d0) to 5.4 (client).
+[I 2026-10-27 14:49:23.502 ServerApp] Connecting to kernel 7ff22f2b-9f10-49de-947e-d65651ac92d0.
+[I 2026-10-27 14:49:28.651 ServerApp] Saving file at /the-craft-of-selfteaching/test2.ipynb
+[I 2026-10-27 14:49:45.989 ServerApp] Copying 'the-craft-of-selfteaching/life-expectancy-china-1960-2016.txt' to ''
+[I 2026-10-27 14:49:56.276 ServerApp] Saving file at /the-craft-of-selfteaching/test2.ipynb
+WebSocket connection closed.
+[W 2026-10-27 14:50:37.343 ServerApp] delete /life-expectancy-china-1960-2016.txt
+[I 2026-10-27 14:51:24.755 ServerApp] Saving file at /the-craft-of-selfteaching/test2.ipynb
+[I 2026-10-27 14:51:34.550 ServerApp] Saving file at /the-craft-of-selfteaching/test2.ipynb
+WebSocket connection closed.
+[I 2026-10-27 14:52:26.197 ServerApp] Saving file at /the-craft-of-selfteaching/test2.ipynb
+[I 2026-10-27 14:53:21.437 ServerApp] Saving file at /the-craft-of-selfteaching/test2.ipynb
+[I 2026-10-27 14:53:33.676 ServerApp] Saving file at /the-craft-of-selfteaching/test2.ipynb
+[W 2026-10-27 14:54:02.794 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793084042717 (ac0333bd24a246b6ad70aa723e79bf47@::1) 75.45ms referer=http://localhost:8888/lab/tree/the-craft-of-selfteaching/test2.ipynb?
+WebSocket connection closed.
+WebSocket connection closed.
+[I 2026-10-27 14:57:14.315 ServerApp] Saving file at /the-craft-of-selfteaching/test2.ipynb
+[I 2026-10-27 14:57:19.222 ServerApp] Saving file at /the-craft-of-selfteaching/test2.ipynb
+[I 2026-10-27 14:58:10.272 ServerApp] Saving file at /the-craft-of-selfteaching/test2.ipynb
+[I 2026-10-27 14:58:19.241 ServerApp] Saving file at /the-craft-of-selfteaching/test2.ipynb
+WebSocket connection closed.
+[I 2026-10-27 14:58:38.656 ServerApp] Saving file at /the-craft-of-selfteaching/test2.ipynb
+[W 2026-10-27 14:59:01.995 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793084341914 (ac0333bd24a246b6ad70aa723e79bf47@::1) 78.31ms referer=http://localhost:8888/lab/tree/the-craft-of-selfteaching/test2.ipynb?
+[I 2026-10-27 14:59:31.526 ServerApp] Saving file at /the-craft-of-selfteaching/test2.ipynb
+[I 2026-10-27 14:59:51.100 ServerApp] Saving file at /the-craft-of-selfteaching/test2.ipynb
+[I 2026-10-27 15:00:05.502 ServerApp] Saving file at /the-craft-of-selfteaching/test2.ipynb
+[I 2026-10-27 15:00:10.470 ServerApp] Saving file at /the-craft-of-selfteaching/test2.ipynb
+[I 2026-10-27 15:00:13.036 ServerApp] Saving file at /the-craft-of-selfteaching/test2.ipynb
+WebSocket connection closed.
+[I 2026-10-27 15:01:50.615 ServerApp] Saving file at /the-craft-of-selfteaching/test2.ipynb
+[I 2026-10-27 15:01:54.026 ServerApp] Saving file at /the-craft-of-selfteaching/test2.ipynb
+[I 2026-10-27 15:02:00.635 ServerApp] Not found API Key
+[W 2026-10-27 15:02:00.709 ServerApp] Notebook the-craft-of-selfteaching/Part.1.A.better.teachyourself.ipynb is not trusted
+[I 2026-10-27 15:02:01.113 ServerApp] Kernel started: da5f5d8d-7952-4731-91d1-2d4f225068af
+[I 2026-10-27 15:02:02.839 ServerApp] Adapting from protocol version 5.3 (kernel da5f5d8d-7952-4731-91d1-2d4f225068af) to 5.4 (client).
+[I 2026-10-27 15:02:02.840 ServerApp] Connecting to kernel da5f5d8d-7952-4731-91d1-2d4f225068af.
+[I 2026-10-27 15:02:18.624 ServerApp] Saving file at /the-craft-of-selfteaching/Part.1.A.better.teachyourself.ipynb
+[W 2026-10-27 15:02:18.625 ServerApp] Notebook the-craft-of-selfteaching/Part.1.A.better.teachyourself.ipynb is not trusted
+WebSocket connection closed.
+[W 2026-10-27 15:04:01.977 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793084641905 (ac0333bd24a246b6ad70aa723e79bf47@::1) 70.32ms referer=http://localhost:8888/lab/tree/the-craft-of-selfteaching/Part.1.A.better.teachyourself.ipynb?
+WebSocket connection closed.
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 15:09:02.797 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793084942712 (ac0333bd24a246b6ad70aa723e79bf47@::1) 82.15ms referer=http://localhost:8888/lab/tree/the-craft-of-selfteaching/Part.1.A.better.teachyourself.ipynb?
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 15:14:02.790 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793085242711 (ac0333bd24a246b6ad70aa723e79bf47@::1) 76.89ms referer=http://localhost:8888/lab/tree/the-craft-of-selfteaching/Part.1.A.better.teachyourself.ipynb?
+WebSocket connection closed.
+WebSocket connection closed.
+WebSocket connection closed.
+[W 2026-10-27 15:19:39.792 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793085579716 (ac0333bd24a246b6ad70aa723e79bf47@::1) 73.41ms referer=http://localhost:8888/lab/tree/the-craft-of-selfteaching/Part.1.A.better.teachyourself.ipynb?
+WebSocket connection closed.
+WebSocket connection closed.
+[I 2026-10-27 15:23:43.478 ServerApp] Starting buffering for 7ff22f2b-9f10-49de-947e-d65651ac92d0:b97eefaa-98f6-45c8-a90d-3840d74f6041
+[I 2026-10-27 15:23:43.481 ServerApp] Starting buffering for da5f5d8d-7952-4731-91d1-2d4f225068af:9a4ac705-c18b-46f0-b29b-4fdf03bc2315
+[I 2026-10-27 15:23:43.486 ServerApp] Adapting from protocol version 5.3 (kernel 7ff22f2b-9f10-49de-947e-d65651ac92d0) to 5.4 (client).
+[I 2026-10-27 15:23:43.487 ServerApp] Connecting to kernel 7ff22f2b-9f10-49de-947e-d65651ac92d0.
+[I 2026-10-27 15:23:43.487 ServerApp] Restoring connection for 7ff22f2b-9f10-49de-947e-d65651ac92d0:b97eefaa-98f6-45c8-a90d-3840d74f6041
+[I 2026-10-27 15:23:43.519 ServerApp] Adapting from protocol version 5.3 (kernel da5f5d8d-7952-4731-91d1-2d4f225068af) to 5.4 (client).
+[I 2026-10-27 15:23:43.520 ServerApp] Connecting to kernel da5f5d8d-7952-4731-91d1-2d4f225068af.
+[I 2026-10-27 15:23:43.520 ServerApp] Restoring connection for da5f5d8d-7952-4731-91d1-2d4f225068af:9a4ac705-c18b-46f0-b29b-4fdf03bc2315
+[W 2026-10-27 15:24:39.798 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793085879711 (ac0333bd24a246b6ad70aa723e79bf47@::1) 83.54ms referer=http://localhost:8888/lab/tree/the-craft-of-selfteaching/Part.1.A.better.teachyourself.ipynb?
+WebSocket connection closed.
+[I 2026-10-27 15:27:46.628 ServerApp] Starting buffering for 7ff22f2b-9f10-49de-947e-d65651ac92d0:b97eefaa-98f6-45c8-a90d-3840d74f6041
+WebSocket connection closed.
+[I 2026-10-27 15:27:46.631 ServerApp] Starting buffering for da5f5d8d-7952-4731-91d1-2d4f225068af:9a4ac705-c18b-46f0-b29b-4fdf03bc2315
+[I 2026-10-27 15:27:46.634 ServerApp] Adapting from protocol version 5.3 (kernel 7ff22f2b-9f10-49de-947e-d65651ac92d0) to 5.4 (client).
+[I 2026-10-27 15:27:46.635 ServerApp] Connecting to kernel 7ff22f2b-9f10-49de-947e-d65651ac92d0.
+[I 2026-10-27 15:27:46.636 ServerApp] Restoring connection for 7ff22f2b-9f10-49de-947e-d65651ac92d0:b97eefaa-98f6-45c8-a90d-3840d74f6041
+[I 2026-10-27 15:27:46.654 ServerApp] Adapting from protocol version 5.3 (kernel da5f5d8d-7952-4731-91d1-2d4f225068af) to 5.4 (client).
+[I 2026-10-27 15:27:46.655 ServerApp] Connecting to kernel da5f5d8d-7952-4731-91d1-2d4f225068af.
+[I 2026-10-27 15:27:46.655 ServerApp] Restoring connection for da5f5d8d-7952-4731-91d1-2d4f225068af:9a4ac705-c18b-46f0-b29b-4fdf03bc2315
+[I 2026-10-27 15:28:46.630 ServerApp] Starting buffering for 7ff22f2b-9f10-49de-947e-d65651ac92d0:b97eefaa-98f6-45c8-a90d-3840d74f6041
+WebSocket connection closed.
+[I 2026-10-27 15:28:46.632 ServerApp] Starting buffering for da5f5d8d-7952-4731-91d1-2d4f225068af:9a4ac705-c18b-46f0-b29b-4fdf03bc2315
+[I 2026-10-27 15:28:46.651 ServerApp] Adapting from protocol version 5.3 (kernel 7ff22f2b-9f10-49de-947e-d65651ac92d0) to 5.4 (client).
+[I 2026-10-27 15:28:46.652 ServerApp] Connecting to kernel 7ff22f2b-9f10-49de-947e-d65651ac92d0.
+[I 2026-10-27 15:28:46.652 ServerApp] Restoring connection for 7ff22f2b-9f10-49de-947e-d65651ac92d0:b97eefaa-98f6-45c8-a90d-3840d74f6041
+[I 2026-10-27 15:28:46.668 ServerApp] Adapting from protocol version 5.3 (kernel da5f5d8d-7952-4731-91d1-2d4f225068af) to 5.4 (client).
+[I 2026-10-27 15:28:46.669 ServerApp] Connecting to kernel da5f5d8d-7952-4731-91d1-2d4f225068af.
+[I 2026-10-27 15:28:46.669 ServerApp] Restoring connection for da5f5d8d-7952-4731-91d1-2d4f225068af:9a4ac705-c18b-46f0-b29b-4fdf03bc2315
+[I 2026-10-27 15:29:08.901 ServerApp] Starting buffering for 7ff22f2b-9f10-49de-947e-d65651ac92d0:b97eefaa-98f6-45c8-a90d-3840d74f6041
+WebSocket connection closed.
+[I 2026-10-27 15:29:08.903 ServerApp] Starting buffering for da5f5d8d-7952-4731-91d1-2d4f225068af:9a4ac705-c18b-46f0-b29b-4fdf03bc2315
+[I 2026-10-27 15:29:08.908 ServerApp] Adapting from protocol version 5.3 (kernel 7ff22f2b-9f10-49de-947e-d65651ac92d0) to 5.4 (client).
+[I 2026-10-27 15:29:08.908 ServerApp] Connecting to kernel 7ff22f2b-9f10-49de-947e-d65651ac92d0.
+[I 2026-10-27 15:29:08.909 ServerApp] Restoring connection for 7ff22f2b-9f10-49de-947e-d65651ac92d0:b97eefaa-98f6-45c8-a90d-3840d74f6041
+[I 2026-10-27 15:29:08.933 ServerApp] Adapting from protocol version 5.3 (kernel da5f5d8d-7952-4731-91d1-2d4f225068af) to 5.4 (client).
+[I 2026-10-27 15:29:08.934 ServerApp] Connecting to kernel da5f5d8d-7952-4731-91d1-2d4f225068af.
+[I 2026-10-27 15:29:08.935 ServerApp] Restoring connection for da5f5d8d-7952-4731-91d1-2d4f225068af:9a4ac705-c18b-46f0-b29b-4fdf03bc2315
+[W 2026-10-27 15:29:09.837 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793086149710 (ac0333bd24a246b6ad70aa723e79bf47@::1) 119.86ms referer=http://localhost:8888/lab/tree/the-craft-of-selfteaching/Part.1.A.better.teachyourself.ipynb?
+[I 2026-10-27 15:30:28.971 ServerApp] Starting buffering for 7ff22f2b-9f10-49de-947e-d65651ac92d0:b97eefaa-98f6-45c8-a90d-3840d74f6041
+WebSocket connection closed.
+[I 2026-10-27 15:30:28.973 ServerApp] Starting buffering for da5f5d8d-7952-4731-91d1-2d4f225068af:9a4ac705-c18b-46f0-b29b-4fdf03bc2315
+[I 2026-10-27 15:30:28.976 ServerApp] Adapting from protocol version 5.3 (kernel 7ff22f2b-9f10-49de-947e-d65651ac92d0) to 5.4 (client).
+[I 2026-10-27 15:30:28.977 ServerApp] Connecting to kernel 7ff22f2b-9f10-49de-947e-d65651ac92d0.
+[I 2026-10-27 15:30:28.977 ServerApp] Restoring connection for 7ff22f2b-9f10-49de-947e-d65651ac92d0:b97eefaa-98f6-45c8-a90d-3840d74f6041
+[I 2026-10-27 15:30:28.992 ServerApp] Adapting from protocol version 5.3 (kernel da5f5d8d-7952-4731-91d1-2d4f225068af) to 5.4 (client).
+[I 2026-10-27 15:30:28.992 ServerApp] Connecting to kernel da5f5d8d-7952-4731-91d1-2d4f225068af.
+[I 2026-10-27 15:30:28.993 ServerApp] Restoring connection for da5f5d8d-7952-4731-91d1-2d4f225068af:9a4ac705-c18b-46f0-b29b-4fdf03bc2315
+[I 2026-10-27 15:30:38.990 ServerApp] Starting buffering for 7ff22f2b-9f10-49de-947e-d65651ac92d0:b97eefaa-98f6-45c8-a90d-3840d74f6041
+[I 2026-10-27 15:30:38.991 ServerApp] Starting buffering for da5f5d8d-7952-4731-91d1-2d4f225068af:9a4ac705-c18b-46f0-b29b-4fdf03bc2315
+WebSocket connection closed.
+[I 2026-10-27 15:30:38.994 ServerApp] Adapting from protocol version 5.3 (kernel 7ff22f2b-9f10-49de-947e-d65651ac92d0) to 5.4 (client).
+[I 2026-10-27 15:30:38.995 ServerApp] Connecting to kernel 7ff22f2b-9f10-49de-947e-d65651ac92d0.
+[I 2026-10-27 15:30:38.995 ServerApp] Restoring connection for 7ff22f2b-9f10-49de-947e-d65651ac92d0:b97eefaa-98f6-45c8-a90d-3840d74f6041
+[I 2026-10-27 15:30:39.007 ServerApp] Adapting from protocol version 5.3 (kernel da5f5d8d-7952-4731-91d1-2d4f225068af) to 5.4 (client).
+[I 2026-10-27 15:30:39.008 ServerApp] Connecting to kernel da5f5d8d-7952-4731-91d1-2d4f225068af.
+[I 2026-10-27 15:30:39.008 ServerApp] Restoring connection for da5f5d8d-7952-4731-91d1-2d4f225068af:9a4ac705-c18b-46f0-b29b-4fdf03bc2315
+WebSocket connection closed.
+[W 2026-10-27 15:34:39.799 ServerApp] 403 GET /aext_assistant_server/nucleus_user?1793086479706 (ac0333bd24a246b6ad70aa723e79bf47@::1) 87.43ms referer=http://localhost:8888/lab/tree/the-craft-of-selfteaching/Part.1.A.better.teachyourself.ipynb?
+WebSocket connection closed.
+[I 2026-10-27 15:35:19.409 ServerApp] Starting buffering for 7ff22f2b-9f10-49de-947e-d65651ac92d0:b97eefaa-98f6-45c8-a90d-3840d74f6041
+[I 2026-10-27 15:35:19.411 ServerApp] Starting buffering for da5f5d8d-7952-4731-91d1-2d4f225068af:9a4ac705-c18b-46f0-b29b-4fdf03bc2315
+WebSocket connection closed.
+[I 2026-10-27 15:35:19.414 ServerApp] Adapting from protocol version 5.3 (kernel 7ff22f2b-9f10-49de-947e-d65651ac92d0) to 5.4 (client).
+[I 2026-10-27 15:35:19.415 ServerApp] Connecting to kernel 7ff22f2b-9f10-49de-947e-d65651ac92d0.
+[I 2026-10-27 15:35:19.416 ServerApp] Restoring connection for 7ff22f2b-9f10-49de-947e-d65651ac92d0:b97eefaa-98f6-45c8-a90d-3840d74f6041
+[I 2026-10-27 15:35:19.441 ServerApp] Adapting from protocol version 5.3 (kernel da5f5d8d-7952-4731-91d1-2d4f225068af) to 5.4 (client).
+[I 2026-10-27 15:35:19.442 ServerApp] Connecting to kernel da5f5d8d-7952-4731-91d1-2d4f225068af.
+[I 2026-10-27 15:35:19.442 ServerApp] Restoring connection for da5f5d8d-7952-4731-91d1-2d4f225068af:9a4ac705-c18b-46f0-b29b-4fdf03bc2315
+WebSocket connection closed.
+[I 2026-10-27 15:37:46.631 ServerApp] Starting buffering for 7ff22f2b-9f10-49de-947e-d65651ac92d0:b97eefaa-98f6-45c8-a90d-3840d74f6041
+[I 2026-10-27 15:37:46.632 ServerApp] Starting buffering for da5f5d8d-7952-4731-91d1-2d4f225068af:9a4ac705-c18b-46f0-b29b-4fdf03bc2315
+WebSocket connection closed.
+[I 2026-10-27 15:37:46.635 ServerApp] Adapting from protocol version 5.3 (kernel 7ff22f2b-9f10-49de-947e-d65651ac92d0) to 5.4 (client).
+[I 2026-10-27 15:37:46.636 ServerApp] Connecting to kernel 7ff22f2b-9f10-49de-947e-d65651ac92d0.
+[I 2026-10-27 15:37:46.637 ServerApp] Restoring connection for 7ff22f2b-9f10-49de-947e-d65651ac92d0:b97eefaa-98f6-45c8-a90d-3840d74f6041
+[I 2026-10-27 15:37:46.662 ServerApp] Adapting from protocol version 5.3 (kernel da5f5d8d-7952-4731-91d1-2d4f225068af) to 5.4 (client).
+[I 2026-10-27 15:37:46.663 ServerApp] Connecting to kernel da5f5d8d-7952-4731-91d1-2d4f225068af.
+[I 2026-10-27 15:37:46.663 ServerApp] Restoring connection for da5f5d8d-7952-4731-91d1-2d4f225068af:9a4ac705-c18b-46f0-b29b-4fdf03bc2315
